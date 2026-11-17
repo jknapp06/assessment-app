@@ -1,0 +1,25 @@
+# Data files
+*.csv
+*.tsv
+*.rds
+*.rda
+*.RData
+data/
+
+# Output files
+*.pdf
+*.html
+*.docx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+
+# R specific
+.Rhistory
+.Rproj.user/
+.Ruserdata
+.Rapp.history
+
+# Positron / VS Code
+.vscode/
